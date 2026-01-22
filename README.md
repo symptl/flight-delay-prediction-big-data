@@ -85,7 +85,7 @@ Extracts delay propagation signals by joining each flight to prior flights on th
 
 These features consistently ranked as the top predictors across all model types. The intuition: delays propagate through an aircraft's daily schedule, and tight turnarounds amplify risk.
 
-> **Note:** `Previous_Flight_Delay_Features.html` is exported from Databricks with cell outputs preserved. Large notebooks with visualizations can only be exported as HTML, conversion to .ipynb was avoided to retain execution results.
+> **Note:** `Previous_Flight_Delay_Features.html` is exported from Databricks with cell outputs preserved. Large notebooks with visualizations can only be exported as HTML, conversion to .ipynb was avoided to retain execution results. It will usually require download and viewing in a personal browser.
 
 ---
 
