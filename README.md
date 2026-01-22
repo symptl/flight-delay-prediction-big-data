@@ -4,7 +4,7 @@ A PySpark-based machine learning pipeline for predicting U.S. domestic flight de
 
 This repository contains the feature engineering pipeline and supporting notebooks. The project was completed as part of UC Berkeley's MIDS W261 (Machine Learning at Scale) course.
 
-All file paths referenced within notebooks point to a now defunct workspace in Databricks and its associated storage, they cannot be reached.
+All file paths referenced within notebooks point to a now defunct workspace in Databricks and its associated storage, they cannot be reached. Notebooks have certain cell outputs cleared in some cases when possible (usually when displaying dataframes) to minimize repo footprint.
 
 Full project report is available in `notebooks/Final_Report.ipynb`.
 
